@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CARS</string>
+    <string name="all_makes_button">ALL MAKES</string>
+    <string name="search_button">SEARCH</string>
+    <string name="makes_title_textview">MAKES</string>
+    <string name="models_title_textview">MODELS</string>
+</resources>
